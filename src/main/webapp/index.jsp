@@ -11,5 +11,6 @@
 	<p>내용 또 추가</p>
 	<a href="/views/test01.jsp">페이지이동</a>
 	<a href="/views/test02.jsp">페이지로이동22</a>
+	<b>추가</b>
 </body>
 </html>
