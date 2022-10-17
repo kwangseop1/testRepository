@@ -9,10 +9,7 @@
 <body>
 	<h3>user2 작업</h3>
 	<a href="#">링크추가</a>
-<<<<<<< HEAD
-	<p>내 읽어버린 하루</p>
-=======
 	<a href="#">링크 또 추가</a>
->>>>>>> branch 'master' of https://github.com/kwangseop1/testRepository.git
+	<p>내 읽어버린 하루</p>
 </body>
 </html>
